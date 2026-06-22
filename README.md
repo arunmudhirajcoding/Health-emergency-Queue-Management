@@ -2,6 +2,15 @@
 
 Hospital Emergency Queue Management is a full-stack web application that simulates an emergency room triage queue. It uses a React + Vite frontend to collect patient data and display a real-time prioritized dashboard, and a FastAPI backend to manage queue ordering, wait-time estimates, and patient status.
 
+Live deployments:
+- Backend:
+<img src="./assets/backend.png" alt="Backend API status">
+- Backend API: https://health-emergency-queue-management-backend.onrender.com/api
+
+- frontend:
+<img src="./assets/frontend.png" alt="Frontend app status">
+- Frontend app: https://health-emergency-queue-management.vercel.app
+
 <!-- TODO: Add deployment documentation for staging and production builds. -->
 
 ## Project Overview
