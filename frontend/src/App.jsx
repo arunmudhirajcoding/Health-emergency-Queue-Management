@@ -1,7 +1,7 @@
 import { Activity, Clock, HeartPulse, RefreshCcw, ShieldAlert, Stethoscope, Trash2, UserPlus } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 
-const API_URL = "http://127.0.0.1:8000/api";
+const API_URL = "https://health-emergency-queue-management-backend.onrender.com/api";
 
 const initialForm = {
   name: "",
